@@ -3,7 +3,7 @@
   // STORE EACH PERSON AS AN OBJECT IN AN ARRAY
   var people = [
     {                                              // Each person is an object
-      name: 'Casey',                               // It holds name and rate
+      name: 'Cassie',                               // It holds name and rate
       rate: 60
     },
     {
